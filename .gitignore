@@ -1,17 +1,15 @@
 .venv/
-node_modules/
 __pycache__/
 *.pyc
-.env
-.env.local
-out/
+build/
 dist/
+*.spec
+
+# Local archive: old web version and backups (never commit)
+_archive/
 
 # Board saves / user content (never commit)
 *.json
-!package.json
-!package-lock.json
-!metadata.json
 *.png
 *.jpg
 *.jpeg
