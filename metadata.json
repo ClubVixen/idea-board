@@ -1,0 +1,6 @@
+{
+  "name": "Detective Board - Mind Map",
+  "description": "A digital investigation board where you can pin images, sticky notes, and connect them with the classic 'red string'. Features Gemini AI to help brainstorm connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

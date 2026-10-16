@@ -1,0 +1,17 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+out/
+dist/
+
+# Board saves / user content (never commit)
+*.json
+!package.json
+!package-lock.json
+!metadata.json
+*.png
+*.jpg
+*.jpeg
